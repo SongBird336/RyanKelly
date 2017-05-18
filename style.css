@@ -1,3 +1,76 @@
-h3{
-    color: blue;
+html{
+    height: 100%;
+}
+
+body{
+    margin-top: 5%;
+
+    height: 100%;
+
+    background-image: url("Blue Jay Waving x16.png");
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-color: #ecfbff;
+    background-attachment: fixed;
+}
+
+.blueBar {
+    height: 20px;
+    background-color: darkblue;
+    opacity: 0.4;
+    border-top: 0px;
+}
+
+
+/* ~~~~~~ Home ~~~~~~ */
+
+#homeHeader, #homeText{
+    color: darkblue;
+    text-align: center;
+}
+
+#homeText{
+    color: darkblue;
+}
+
+.homeLine{
+    background-color: darkblue;
+    height: 5px;
+    border-top: 0px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+#homeLineTop{
+    margin-top: 8%;
+    margin-bottom: 3%;
+}
+
+#homeLineBottom{
+    margin-top: 3%;
+    margin-bottom: 20%;
+}
+
+#contactText{
+    margin-left: 20%;
+    color: darkblue;
+}
+
+
+/* ~~~~~~ Sharpeez ~~~~~~ */
+
+#sharpeez{
+    background-color: rgba(255, 255, 255, .85);
+    margin-left: 10%;
+    margin-right: 15%;
+}
+
+#sharpeezHeader, #sharpeezText{
+    margin-left: 5%;
+    margin-right: 15%;
+}
+
+
+#sharpeezHeader{
+    color: darkblue;
 }
