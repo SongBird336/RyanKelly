@@ -21,6 +21,12 @@ body{
     border-top: 0px;
 }
 
+#contactText{
+    margin-top: 2%;
+    margin-left: 10%;
+    color: darkblue;
+}
+
 
 /* ~~~~~~ Home ~~~~~~ */
 
@@ -51,19 +57,16 @@ body{
     margin-bottom: 20%;
 }
 
-#contactText{
-    margin-left: 20%;
-    color: darkblue;
-}
 
+/* ~~~~~~ General Tab Background ~~~~~~ */
 
-/* ~~~~~~ Sharpeez ~~~~~~ */
-
-#sharpeez{
+.tabWithBackground{
     background-color: rgba(255, 255, 255, .85);
     margin-left: 10%;
     margin-right: 15%;
 }
+
+/* ~~~~~~ Sharpeez ~~~~~~ */
 
 #sharpeezHeader, #sharpeezText{
     margin-left: 5%;
@@ -73,4 +76,12 @@ body{
 
 #sharpeezHeader{
     color: darkblue;
+}
+
+#sharpeezLogo{
+    border: 1px;
+    padding: 3px;
+    width: 80%;
+    margin-left: 5%;
+    margin-bottom: 2%;
 }
