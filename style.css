@@ -7,11 +7,12 @@ body{
 
     height: 100%;
 
-    background-image: url("Blue Jay Waving x16.png");
+    background: url("Blue Jay Waving x16.png");
     background-size: auto 100%;
     background-repeat: no-repeat;
     background-color: #ecfbff;
     background-attachment: fixed;
+    background-position: fixed;
 }
 
 .blueBar {
