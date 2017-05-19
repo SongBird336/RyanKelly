@@ -83,6 +83,7 @@ body{
     background-color: lightblue;
 
     margin-top: 3%;
+    margin-bottom: 3%;
 
     width: 30%;
     max-width: 30%;
@@ -95,6 +96,42 @@ body{
     margin-bottom: 3%;
     max-width: 80%;
 }
+
+
+/* ~~~~~~ Music ~~~~~~*/
+
+#musicHeader, #musicText{
+    margin-left: 5%;
+}
+
+#musicHeader{
+    color: darkblue;
+}
+
+.musicSubHeader{
+    color: blue;
+    margin-left: 5%;
+}
+
+.musicVideoBoxes{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 3%;
+    border: 2px solid black;
+    background-color: rgba(173, 216, 230, 0.6);
+}
+
+.musicVideoBoxContent{
+    vertical-align: middle;
+    margin-top: 8%;
+    margin-left: 8%;
+}
+
+.musicVideo{
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
 
 /* ~~~~~~ Sharpeez ~~~~~~ */
 
