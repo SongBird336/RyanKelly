@@ -67,6 +67,13 @@ body{
     margin-right: 15%;
 }
 
+
+/* ~~~~~~ Who am I? ~~~~~~ */
+
+#whoamiHeader, #whoamiText{
+    margin-left: 5%;
+}
+
 /* ~~~~~~ Sharpeez ~~~~~~ */
 
 #sharpeezHeader, #sharpeezText{
